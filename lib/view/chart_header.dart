@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:btc_chart/controller/ohlc_controller.dart';
-import 'package:btc_chart/view/chart_const.dart';
+import 'package:ebitcoin/controller/ohlc_controller.dart';
+import 'package:ebitcoin/view/chart_const.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';

@@ -1,8 +1,8 @@
-import 'package:btc_chart/controller/ohlc_controller.dart';
-import 'package:btc_chart/model/line_chart_data.dart';
-import 'package:btc_chart/view/chart_const.dart';
-import 'package:btc_chart/view/chart_header.dart';
-import 'package:btc_chart/view/line_chart.dart';
+import 'package:ebitcoin/controller/ohlc_controller.dart';
+import 'package:ebitcoin/model/line_chart_data.dart';
+import 'package:ebitcoin/view/chart_const.dart';
+import 'package:ebitcoin/view/chart_header.dart';
+import 'package:ebitcoin/view/line_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

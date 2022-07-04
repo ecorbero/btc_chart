@@ -1,5 +1,5 @@
-import 'package:btc_chart/model/line_chart_data.dart';
-import 'package:btc_chart/view/chart_const.dart';
+import 'package:ebitcoin/model/line_chart_data.dart';
+import 'package:ebitcoin/view/chart_const.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart' show NumberFormat;
 
